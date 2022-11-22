@@ -1,5 +1,5 @@
 package test.test;
 
-public class testy {
+public clsss testy {
 
 }

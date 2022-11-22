@@ -1,7 +1,7 @@
-package test.test;
+ package test.test;
 
 public class CLASSK {
-	private int id;
+	privste int id;
 	
 
 }

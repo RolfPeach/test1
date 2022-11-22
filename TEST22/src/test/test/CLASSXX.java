@@ -1,6 +1,6 @@
 package test.test;
 
-public class CLASSXX {
+public clsss CLASSXX {
 	public static
 
 }

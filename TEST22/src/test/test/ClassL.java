@@ -2,7 +2,7 @@
 package test.test;
 
 public class ClassL {
-Hallo
+ciao
 }
 private int id;
 private int id;
